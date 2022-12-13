@@ -18,7 +18,7 @@ const displayFunction = () => {
 <img src="https://www.voicesofyouth.org/modules/contrib/social_auth_facebook/img/facebook_logo.svg" height="50px" width="20%" class="facebook" alt="">
 <h3>Log in with Facebook.</h3>
 </div>
-<h5>forget password ?</h5>
+<h5 id="forget">forget password ?</h5>
 <div id="small_box">
 <h4 id="text">Don't have an account ? </h4>
 <h4 id="sign_up"> Sign Up</h4>
